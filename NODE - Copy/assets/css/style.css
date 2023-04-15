@@ -1,0 +1,26 @@
+/* 1:: */
+/* TEXT COLOR */
+/* color: green; */
+/* color: rgb(255, 2, 255); */
+/* color: rgba(20, 255, 100, 0.8); == (4 dana wata chand tox bit yan pechawana) */
+/* 2:: */
+/* BACKGROUND */
+/* background-repeat: no-repeat; == agar chand wenak buu ama anusin akata 1 dana */
+/* 3:: */
+/* POSITION */
+/* position: relative and absolute; */
+/* 4:: */
+/* DIRECTION */
+/* /* direction: ltr and rtl; == wata nusin la lay chap bit yan rast (English == ltr and Arabic == rtl) */
+/* 5:: */
+/* TRANSITION */
+/* transition: background-color 0.4s; */
+
+body{
+    background-image: url('./img/netflix.jpg');
+    /* background-repeat: no-repeat; */
+}
+/* h1{
+    color: red !important;
+    font-size: 110px;
+} */
