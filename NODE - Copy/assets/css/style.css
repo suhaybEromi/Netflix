@@ -16,11 +16,19 @@
 /* TRANSITION */
 /* transition: background-color 0.4s; */
 
-body{
-    background-image: url('./img/netflix.jpg');
-    /* background-repeat: no-repeat; */
+body {
+    /* background-image: url('./img/netflix.jpg'); */
+    background-image: url('./img/dark.jpg');
 }
-/* h1{
-    color: red !important;
-    font-size: 110px;
-} */
+
+.aa {
+    font-family: monospace !important;
+}
+
+.h11 {
+    font-size: 55px !important;
+}
+
+.card1 {
+    margin-top: 100px !important;
+}
