@@ -16,9 +16,11 @@
 /* TRANSITION */
 /* transition: background-color 0.4s; */
 
-body {
+/* FIRST PAGE */
+.firstPage {
     /* background-image: url('./img/netflix.jpg'); */
-    background-image: url('./img/dark.jpg');
+    /* background-image: url('./img/dark.jpg'); */
+    background-color: black !important;
 }
 
 .aa {
@@ -32,3 +34,37 @@ body {
 .card1 {
     margin-top: 100px !important;
 }
+
+.link {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.list {
+    list-style: none !important;
+}
+
+/* END FIRST PAGE */
+
+/* SECOND PAGE */
+.secondPage {
+    background-color: white !important;
+}
+
+.secondLink:hover {
+    text-decoration: underline !important;
+}
+
+.secondInput {
+    background: rgb(230, 17, 17) !important;
+}
+
+.secondLink {
+    text-decoration: none !important;
+}
+
+.secondList {
+    list-style: none !important;
+}
+
+
+/* END SECOND PAGE */
