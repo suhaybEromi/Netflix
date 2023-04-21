@@ -45,6 +45,7 @@
 
 /* END FIRST PAGE */
 
+
 /* SECOND PAGE */
 .secondPage {
     background-color: white !important;
@@ -66,5 +67,21 @@
     list-style: none !important;
 }
 
-
 /* END SECOND PAGE */
+
+
+/* THIRD PAGE */
+
+
+.ss {
+    margin-left: 300px !important;
+    /* margin-top: 300px !important; */
+}
+
+.thirdList {
+    list-style: none !important;
+}
+
+
+
+/* END THIRD PAGE */
