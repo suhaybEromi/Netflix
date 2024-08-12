@@ -1,0 +1,85 @@
+/* 1:: */
+/* TEXT COLOR */
+/* color: green; */
+/* color: rgb(255, 2, 255); */
+/* color: rgba(20, 255, 100, 0.8); == (4 dana wata chand tox bit yan pechawana) */
+/* 2:: */
+/* BACKGROUND */
+/* background-repeat: no-repeat; == agar chand wenak buu ama anusin akata 1 dana */
+/* 3:: */
+/* POSITION */
+/* position: relative and absolute; */
+/* 4:: */
+/* DIRECTION */
+/* /* direction: ltr and rtl; == wata nusin la lay chap bit yan rast (English == ltr and Arabic == rtl) */
+/* 5:: */
+/* TRANSITION */
+/* transition: background-color 0.4s; */
+
+
+
+/* FIRST PAGE */
+.firstPage {
+    /* background-image: url('./img/netflix.jpg'); */
+    /* background-image: url('./img/dark.jpg'); */
+    background-color: black !important;
+}
+
+.aa {
+    font-family: monospace !important;
+}
+
+.h11 {
+    font-size: 55px !important;
+}
+
+.card1 {
+    margin-top: 100px !important;
+}
+
+.link {
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.list {
+    list-style: none !important;
+}
+
+/* END FIRST PAGE */
+
+
+/* SECOND PAGE */
+.secondPage {
+    background-color: white !important;
+}
+
+.secondLink:hover {
+    text-decoration: underline !important;
+}
+
+.secondInput {
+    background: rgb(230, 17, 17) !important;
+}
+
+.secondLink {
+    text-decoration: none !important;
+}
+
+.secondList {
+    list-style: none !important;
+}
+
+/* END SECOND PAGE */
+
+
+/* THIRD PAGE */
+.ss {
+    margin-left: 300px !important;
+    /* margin-top: 300px !important; */
+}
+
+.thirdList {
+    list-style: none !important;
+}
+
+/* END THIRD PAGE */
